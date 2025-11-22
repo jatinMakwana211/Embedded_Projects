@@ -1,0 +1,8 @@
+ 
+Microcontroller -> Arduino IDE
+ Breadboard
+ Servo Motor -> 5V
+ 5MM Green & Red LED Light -> 3V
+Push button
+7-Segment Display
+Jumper Wire
