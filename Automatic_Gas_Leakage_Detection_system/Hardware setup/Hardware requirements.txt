@@ -1,0 +1,11 @@
+ Microcontroller - > Arduino Uno Board
+Relay Module(single channel) ->5V
+Buzzer -> 5V
+Exhaust -> 5V(DC)
+Gas Sensor (MQ-5)
+2 X 9V Battery
+2 X Switch
+DC Motor -> 5V
+jumper wires
+
+
