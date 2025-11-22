@@ -1,0 +1,14 @@
+#include <PubSubClient.h>
+#include <ArduinoJson.h>  
+#include <WebServer.h>
+#include <string.h>
+#include <TFT_eSPI.h>
+#include <FS.h>
+#include <LittleFS.h> // Changed from SPIFFS.h to LittleFS.h
+#include <TJpg_Decoder.h> // JPEG decoder library
+#include <WiFiClient.h>
+#include <HTTPClient.h>
+#include <AudioFileSourceLittleFS.h>
+#include <AudioGeneratorMP3.h>
+#include <AudioOutputI2S.h>
+#include <WiFiClientSecure.h>
