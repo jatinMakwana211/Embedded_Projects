@@ -1,0 +1,7 @@
+ Microcontroller - >ESP32S3 Dev Module
+
+ MAX98357 I2S Audio Amplifier Module. 
+ 3.5 inch ILI9488 SPI Interface 480×320 TFT Screen Display
+
+
+
